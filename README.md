@@ -1,2 +1,1 @@
-# homework-3
-Random Password Generator
+This is a random password generator that creates a random password between 8-128 characters with options ranging from case sensative, alphanumeric, and special charcaters.
